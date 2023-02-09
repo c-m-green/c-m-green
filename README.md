@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-  - [Read2Reed](https://github.com/c-m-green/Read2Reed), a rewrite of pitch-converter in .NET with a GUI.
-  - A desktop app to track one's collection of books.
+  - [Read2Reed](https://github.com/c-m-green/Read2Reed), a rewrite of [pitch-converter](https://github.com/c-m-green/pitch-converter) but in .NET and with a GUI.
+  - A desktop app to track one's personal library.
 - 🌱 I’m currently learning:
   - .NET development
 - 😄 Pronouns: *He/Him*
