@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on:
+  - [Read2Reed](https://github.com/c-m-green/Read2Reed), a rewrite of pitch-converter in .NET with a GUI.
+  - A desktop app to track one's collection of books.
+- 🌱 I’m currently learning:
+  - .NET development
+- 😄 Pronouns: *He/Him*
+
 <!--
 **c-m-green/c-m-green** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
