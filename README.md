@@ -4,7 +4,7 @@
   - [Read2Reed](https://github.com/c-m-green/Read2Reed), a rewrite of [pitch-converter](https://github.com/c-m-green/pitch-converter) but in .NET and with a GUI.
   - A desktop app to track one's personal library.
 - 🌱 I’m currently learning:
-  - .NET development
+  - .NET MAUI
 - 😄 Pronouns: *He/Him*
 
 <!--
