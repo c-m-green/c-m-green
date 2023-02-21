@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-  - A (yet-to-be-named) desktop app to track one's personal library.
+  - [Bookwurm](https://github.com/c-m-green/Bookwurm), a desktop app to track one's personal library.
   - [Read2Reed](https://github.com/c-m-green/Read2Reed), a rewrite of [pitch-converter](https://github.com/c-m-green/pitch-converter) but in .NET and with a GUI.
 - 🌱 I’m currently learning:
   - .NET MAUI
+  - WinUI 3
 - 😄 Pronouns: *He/Him*
 
 <!--
